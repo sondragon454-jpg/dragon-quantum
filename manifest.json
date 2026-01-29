@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Quantum",
+  "short_name": "DragonQ",
+  "start_url": "/dragon-quantum/",
+  "scope": "/dragon-quantum/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#d4af37",
+  "description": "Dragon Quantum v10.6 – The Absolute Sovereign",
+  "orientation": "portrait"
+}
